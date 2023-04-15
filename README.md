@@ -15,9 +15,9 @@
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
 
-I am currently working as a <b>Python</b> developer. I have moved out of initial domain of embedded its fun exploreing
+I am currently working as a <b>Python</b> developer. I used to be from embedded domain, I have worked with NXP semiconductors exclusively for NFC based products.
 
-I have worked with Django , FastAPI, Docker , Prometheus , grafana and much more
+As a Python developer i have worked with  Django , FastAPI, Docker , Prometheus , grafana and much more
 
 I will be trying open source contribution soon
 
